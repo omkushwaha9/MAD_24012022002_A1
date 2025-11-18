@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/bg">
+
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Citizen Home" android:textSize="22sp" android:textStyle="bold" android:textColor="@color/primary"/>
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Report an issue or view nearby bins" android:layout_marginTop="6dp"/>
+
+    <Button android:id="@+id/btnReport" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="New Report" android:layout_marginTop="20dp"/>
+    <Button android:id="@+id/btnLogout" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Logout" android:layout_marginTop="12dp"/>
+
+</LinearLayout>

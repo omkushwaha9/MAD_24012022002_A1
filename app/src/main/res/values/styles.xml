@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CleanRoute" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary branding colors -->
+        <item name="colorPrimary">#0B8043</item>
+        <item name="colorPrimaryVariant">#085A34</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FFC107</item>
+    </style>
+</resources>

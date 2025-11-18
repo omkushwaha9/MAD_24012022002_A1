@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAD_24012022002_A1</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="action_continue">Continue</string>
+</resources>
