@@ -111,9 +111,13 @@ MAD_24012022002_A1/
 ---
 ## 📸 Screenshots
 
-### Login Screen | Sign up | Home Screen
+### Login Screen
 <img width="324" height="713" alt="Login_page" src="https://github.com/user-attachments/assets/7637e2d8-7dd3-4827-9446-70026aff7a21" width="250" >
+
+### Sign up
 <img width="319" height="715" alt="Sign-up_page" src="https://github.com/user-attachments/assets/309d9618-7a21-4bf0-8406-79432e58ce1c" width="250">
+
+### Home Screen
 <img width="321" height="714" alt="Home-screen_Page" src="https://github.com/user-attachments/assets/61c74aeb-d26d-4329-9e4d-3ad9c49892b2" width="250">
 
 
